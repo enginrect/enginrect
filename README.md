@@ -12,7 +12,7 @@
 
 ### 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/enginrect)
-- 📫 Email: enginrect@gmail.com
+- 📫 Email: [enginrect@gmail.com](enginrect@gmail.com)
 - 📁 Blog: [enginrect](https://enginrect.github.io/)
 
 ---
@@ -46,7 +46,7 @@
 
 - <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="20"/> **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/1fb4c3c3-9d9d-4bcc-89fa-d2328eec0acd)**
 - <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="20"/> **[Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/f600e92e-1dfa-40e9-8cd3-b78f793913e1)**
-- <img src="https://img.shields.io/badge/Cloud_Native-007ACC?style=flat&logo=cloudflare&logoColor=white" height="20"/> **[KCD Korea 2023 Contributor](https://www.credly.com/badges/5457873e-13a9-4c24-bbe2-96ea7217dde8)**
+- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=cncf&logoColor=white" height="20"/> **[KCD Korea 2023 Contributor](https://www.credly.com/badges/5457873e-13a9-4c24-bbe2-96ea7217dde8)**
 
 - <img src="https://img.shields.io/badge/AWS_DevOps_Engineer_Pro-232F3E?style=flat&logo=amazonaws&logoColor=white" height="20"/> **[AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/42a741ea-3c13-425b-9fb1-afbdfb8f9d25)**
 - <img src="https://img.shields.io/badge/AWS_SA_Associate-232F3E?style=flat&logo=amazonaws&logoColor=white" height="20"/> **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a8a9198e-91c7-4332-969d-4f3131bf315b)**
