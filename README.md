@@ -42,14 +42,31 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enginrect&show_icons=true&theme=github_dark&hide=stars" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginrect&layout=compact&theme=github_dark" height="150"/>
-</p>
+- **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/1fb4c3c3-9d9d-4bcc-89fa-d2328eec0acd)**
+- **[Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/f600e92e-1dfa-40e9-8cd3-b78f793913e1)**
+- **[KCD Korea 2023 Contributor](https://www.credly.com/badges/5457873e-13a9-4c24-bbe2-96ea7217dde8)**
+
+- **[AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/42a741ea-3c13-425b-9fb1-afbdfb8f9d25)**
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/a8a9198e-91c7-4332-969d-4f3131bf315b)**
+- **[AWS Certified Developer – Associate](https://www.credly.com/badges/25f0dbe0-f734-40b6-8d61-b8b904c0307c)**
+- **[AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/0f9dd7e7-f862-4ebf-ad0c-09367e0ede79)**
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/c510a985-d2f8-4ab3-9076-2ae1e989a108)**
 
 ---
+
+
+[//]: # (---)
+
+[//]: # (### 📊 GitHub Stats)
+
+[//]: # (<p align="center">)
+[//]: #   (<img src="https://github-readme-stats.vercel.app/api?username=enginrect&show_icons=true&theme=github_dark&hide=stars" height="150"/>)
+[//]: #   (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginrect&layout=compact&theme=github_dark" height="150"/>)
+[//]: # (</p>)
+
+[//]: # (---)
 
 ### 💬 Philosophy
 > "Engineering is not just building. It's evolving, adapting, and persisting — like life itself."
