@@ -1,4 +1,3 @@
-<h1 align="center">Hi there 👋 I'm <span style="color:#007acc">enginrect</span></h1>
 <p align="center">🛠️ Backend Developer | 🧠 DevOps & Infra Engineer | 🔥 Engineering Enthusiast</p>
 
 ---
