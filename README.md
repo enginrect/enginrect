@@ -1,12 +1,12 @@
-<p align="center">🛠️ Backend Developer | 🧠 DevOps & Infra Engineer | 🔥 Engineering Enthusiast</p>
+<p align="center">🛠️ Backend x DevOps Engineer | ☁️ Cloud Infrastructure Builder  | 🔥 Engineering Enthusiast</p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🧱 I'm a backend developer who builds systems with precision and persistence.
-- 🌩️ Deeply interested in **cloud infrastructure, CI/CD, and automation**.
-- 🧬 I believe in continuous improvement and evolutionary engineering — just like my nickname, `enginrect`.
-- 📈 My focus is on building scalable and resilient backend systems that evolve with time.
+- 🧱 Backend engineer with strong ownership of infrastructure, security, and delivery pipelines.
+- ☁️ Experienced in designing and operating Kubernetes- and Terraform-based systems on AWS.
+- 🧠 Passionate about cloud architecture, automation, and building resilient DevOps foundations.
+- 📈 Evolving toward a cloud architect role—where infrastructure meets business outcomes.
 
 ---
 
