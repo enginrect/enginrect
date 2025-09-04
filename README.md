@@ -1,10 +1,13 @@
 <p align="center">🛠️ Backend x DevOps Engineer | ☁️ Cloud Infrastructure Builder  | 🔥 Engineering Enthusiast</p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enginrect&show_icons=true&theme=github_dark&hide=stars" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginrect&layout=compact&theme=github_dark" height="150"/>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=enginrect&show_icons=true&theme=github_dark&hide=stars" height="150"/>)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginrect&layout=compact&theme=github_dark" height="150"/>)
+
+[//]: # (</p>)
 
 ### 👨‍💻 About Me
 - 🧱 Backend engineer with strong ownership of infrastructure, security, and delivery pipelines.
