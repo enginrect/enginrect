@@ -1,5 +1,3 @@
-# Jay Gue Lee
-
 ☁️ Cloud Infra Engineer — OpenStack × Kubernetes
 
 **Stack**: OpenStack · Kubernetes · Ceph · OVS/OVN · Ansible/AWX · ArgoCD · Terraform · Go/Python/Kotlin
@@ -14,9 +12,3 @@
 | [openstack/ovn-octavia-provider](https://github.com/openstack/ovn-octavia-provider) | Reported [#2130211](https://bugs.launchpad.net/neutron/+bug/2130211): OVN LB first-SYN-drop from bad provider-switch attachment | ✅ Fix Released |
 | [openstack/ovn-octavia-provider](https://github.com/openstack/ovn-octavia-provider) | [Fix](https://github.com/openstack/ovn-octavia-provider/commit/08c699c95b90041c60a76a462b87fd922b4bbdc2): unprotected LB VIP ports (FIP NAT state risk) | ✅ Merged |
 | [kubernetes/cloud-provider-openstack](https://github.com/kubernetes/cloud-provider-openstack) | [PR #3103](https://github.com/kubernetes/cloud-provider-openstack/pull/3103): tag LBs with cluster identity to prevent cross-cluster name collisions | 🕓 Under Review |
-
-## Guides
-
-- [k8s-on-openstack-guide](https://github.com/enginrect/k8s-on-openstack-guide) — Kubernetes across mixed VM + Baremetal (Ironic) nodes
-- [ovn-cilium-firewall-guide](https://github.com/enginrect/ovn-cilium-firewall-guide) — Cilium network policy layered on OpenStack OVS/OVN
-- [ceph-multi-tenant-pool-guide](https://github.com/enginrect/ceph-multi-tenant-pool-guide) — isolated Ceph pools per tenant/domain
