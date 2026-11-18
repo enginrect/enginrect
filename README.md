@@ -8,7 +8,7 @@
 
 | Project | Contribution | Status |
 |---|---|---|
-| [ovn-org/ovn](https://github.com/ovn-org/ovn) | [Fix](https://github.com/ovn-org/ovn/commit/d294af583a25576a70a8327338a9358b4ae961d5): northd: Honor lb_force_snat_ip on distributed routers. | ✅ Merged |
+| [ovn-org/ovn](https://github.com/ovn-org/ovn) | [Fix](https://github.com/ovn-org/ovn/commit/df96f1bf94dd01b788712c8e238ff12a58115b40): northd: Honor lb_force_snat_ip on distributed routers. | ✅ Merged |
 | [ovn-org/ovn](https://github.com/ovn-org/ovn) | [Fix](https://github.com/ovn-org/ovn/commit/cc1af3fd5387c78c856f5542116bf3a1099e1cf2): northd: Fix HM reply lflows for type=external backends on localnet LS. | ✅ Merged |
 | [ovn-org/ovn](https://github.com/ovn-org/ovn) | [Fix](https://github.com/ovn-org/ovn/commit/b5e9b68445a269f388e82eec29a3134087df655b): controller: Set untracked ports down on release. | ✅ Merged |
 | [openstack/ovn-octavia-provider](https://github.com/openstack/ovn-octavia-provider) | Reported [#2130211](https://bugs.launchpad.net/neutron/+bug/2130211): OVN LB first-SYN-drop from bad provider-switch attachment | ✅ Merged |
